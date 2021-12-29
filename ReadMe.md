@@ -24,3 +24,4 @@ Nice to Have
 > docker image build -t alfatest .
 * Запускаем контейнер с образом
 > docker run -p 8080:8080 docker.io/library/alfatest 
+* Запускаем: http://localhost:8080/api/gif/{код валюты}
